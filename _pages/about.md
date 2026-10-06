@@ -7,42 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Text between these arrows is a note to you. It won't appear on the website. 
-     Replace everything in [square brackets] and delete any section you don't need. -->
+I am a PhD student at the Vienna University of Economics and Business (WU), where I am affiliated with the [Economics of Inequality institute (INEQ)](https://www.wu.ac.at/ineq/home). My research focuses on social mobility and the inequalities that result from it, drawing on economics, statistics, sociology and philosophy. At its core is a simple question: how strongly does the broader family background shape children's outcomes?
 
-I am a PhD student at the [INEQ institute](https://www.wu.ac.at/) at the Vienna University of Economics and Business (WU). My research focuses on social mobility and inequality, drawing on [economics, sociology and ...] to understand [one sentence on the big question you care about, e.g. how family background shapes people's educational and economic outcomes].
+My work combines empirical and conceptual perspectives. On the empirical side, I estimate social mobility and apply causal inference methods to better understand the mechanisms behind it. But I also like to take a step back and ask more fundamental questions: How do we actually measure social mobility? And what do ordinary people mean when they talk about it?
 
-<!-- Replace the link above with the address of the INEQ website. -->
-
-In my dissertation, [supervised by Name], I [one or two sentences on what your PhD is about: the question, the data or method, and why it matters].
-
-Research interests
-======
-- Social mobility and intergenerational inequality
-- [Interest 2, e.g. wealth inequality]
-- [Interest 3, e.g. education and labour markets]
-- [Methods you use, e.g. quantitative methods, panel data, causal inference]
-
-Current projects
-======
-**[Project title]** (with [co-authors, if any])  
-[One or two sentences describing the project.]
-
-**[Project title]**  
-[One or two sentences describing the project.]
-
-<!-- Once you have publications or working papers, you can link to them, e.g.: 
-     See my [publications](/publications/) for papers and working papers. -->
-
-Education
-======
-- **PhD in [field]**, Vienna University of Economics and Business, [start year]–present
-- **[Master's degree] in [field]**, [University], [year]
-- **[Bachelor's degree] in [field]**, [University], [year]
-
-<!-- A full CV can go on the CV page. To link a PDF version instead, upload it to the files/ folder 
-     and use: [Download my CV](/files/cv.pdf) -->
+I see myself as a specialist in social mobility rather than in a single discipline. I believe that many concepts in the social sciences can only be understood comprehensively when viewed through several disciplinary lenses. I am often surprised, and somewhat frustrated, by how rarely disciplines engage with one another, and I believe research would gain a great deal if they did.
 
 Contact
 ======
-I'm always happy to hear from people working on related questions. You can reach me at [moritz.hoerl@wu.ac.at](mailto:moritz.hoerl@wu.ac.at).
+I'm always happy to hear from people working on related questions and open to new collaborations. You can reach me at [moritz.hoerl@wu.ac.at](mailto:moritz.hoerl@wu.ac.at).
