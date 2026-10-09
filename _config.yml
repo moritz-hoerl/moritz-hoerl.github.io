@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"  # Replace images/profile.png with your own photo (same file name)
   name             : "Moritz Hörl"
   pronouns         : "he/him"
-  bio              : "PhD student researching social mobility and inequality from an interdisciplinary perspective"
+  bio              : "PhD student researching social mobility from an interdisciplinary perspective"
   location         : "Vienna, Austria"
-  employer         : "Vienna University of Economics and Business (INEQ institute)"
+  employer         : "WU Vienna (INEQ)"
   uri              : # URL
   email            : "moritz.hoerl@wu.ac.at"
 
@@ -83,6 +83,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  workingpapers:
+    title: 'Working Papers'
+  inprogress:
+    title: 'Research in Progress'
   books:
     title: 'Books'
   manuscripts:
