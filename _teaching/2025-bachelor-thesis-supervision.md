@@ -1,7 +1,7 @@
 ---
 title: "Supervision of Bachelor Theses"
 collection: teaching
-type: "Supervision (3 theses)"
+type: "Supervision (2 theses)"
 permalink: /teaching/2025-bachelor-thesis-supervision
 venue: "WU Vienna"
 date: 2026-01-01
