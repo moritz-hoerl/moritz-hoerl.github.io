@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Moritz Hörl"
 title_separator          : "-"
 name                     : &name "Moritz Hörl"
-description              : &description "Moritz Hörl's academic website"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Moritz Hörl (Hoerl, Horl), PhD student at WU Vienna (Vienna University of Economics and Business) researching social mobility, inequality and the economics of education."
 url                      : https://moritz-hoerl.github.io # Your final address. Change if you pick a different GitHub username.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "moritz-hoerl/moritz-hoerl.github.io" # Final repository name (after renaming from "website")
