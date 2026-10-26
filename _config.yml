@@ -83,14 +83,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  manuscripts:
+    title: 'Publications'
   workingpapers:
     title: 'Working Papers'
   inprogress:
     title: 'Research in Progress'
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
